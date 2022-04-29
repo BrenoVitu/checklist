@@ -4,11 +4,7 @@ Checklist Diário
 <fieldset>
     <legend>Check list ao chegar no trabalho:</legend>
 
-    <div>
-      <input type="checkbox" id="Bater o ponto" name="Bater o ponto"
-      <label for="Bater o ponto">Bater o ponto</label>
-    </div>
-
+  
     <div>
       <input type="checkbox" id="Ligar PC" name="Ligar PC">
       <label for="Ligar PC">Ligar PC</label>
