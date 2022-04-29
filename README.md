@@ -6,6 +6,11 @@ Checklist Diário
 
   
     <div>
+        <input type="checkbox" id="Bater o Ponto" name="Bater o Ponto">
+        <label for="Bater o Ponto">Pater o Ponto</label>
+    </div>
+    
+    <div>
       <input type="checkbox" id="Ligar PC" name="Ligar PC">
       <label for="Ligar PC">Ligar PC</label>
     </div>
