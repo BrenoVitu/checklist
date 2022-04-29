@@ -7,7 +7,7 @@ Checklist Diário
   
     <div>
         <input type="checkbox" id="Bater o Ponto" name="Bater o Ponto">
-        <label for="Bater o Ponto">Pater o Ponto</label>
+        <label for="Bater o Ponto">Bater o Ponto</label>
     </div>
     
     <div>
